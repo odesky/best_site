@@ -1,7 +1,8 @@
-cf.090227.xyz:443#
-cdn.2020111.xyz:443#
-cdscdn.cloudflare.182682.xyz:443#
-cloudflare-ip.mofashi.ltd:443#
+cf.090227.xyz:443#优先IP1
+cdn.2020111.xyz:443#优先IP2
+cdscdn.cloudflare.182682.xyz:443#优先IP3
+cloudflare-ip.mofashi.ltd:443#优先IP4
+777.ai7777777.xyz:443#优先IP5电信/移动
 cf.zhetengsha.eu.org:443#
 yg1.ygkkk.dpdns.org:443#
 yg2.ygkkk.dpdns.org:443#
@@ -16,5 +17,5 @@ yg10.ygkkk.dpdns.org:443#
 yg11.ygkkk.dpdns.org:443#
 yg12.ygkkk.dpdns.org:443#
 yg13.ygkkk.dpdns.org:443#
-cf.3666888.xyz#
-cdns.cloudflare.19931110.xyz#
+cf.3666888.xyz#1d.mom
+cdns.cloudflare.19931110.xyz#byoip.top
