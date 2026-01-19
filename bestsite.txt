@@ -1,7 +1,7 @@
 cf.090227.xyz:443#
 cdn.2020111.xyz:443#
 cdscdn.cloudflare.182682.xyz:443# 
-cloudflare-ip.mofashi.ltd:443,# 
+cloudflare-ip.mofashi.ltd:443# 
 cf.zhetengsha.eu.org:443#
 yg1.ygkkk.dpdns.org:443#
 yg2.ygkkk.dpdns.org:443#
