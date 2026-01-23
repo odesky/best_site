@@ -1,3 +1,4 @@
+store.ubi.com:443#Ubi官网
 cf.tencentapp.cn:443#隐藏大佬
 cf.090227.xyz:443#优选IP1
 cdn.2020111.xyz:443#优选IP2
