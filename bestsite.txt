@@ -19,5 +19,5 @@ yg10.ygkkk.dpdns.org:443#甬哥ygkkk10
 yg11.ygkkk.dpdns.org:443#甬哥ygkkk11
 yg12.ygkkk.dpdns.org:443#甬哥ygkkk12
 yg13.ygkkk.dpdns.org:443#甬哥ygkkk13
-cf.3666888.xyz#1d.mom
-cdns.cloudflare.19931110.xyz#byoip.top
+cf.3666888.xyz:443#1d.mom
+cdns.cloudflare.19931110.xyz:443#byoip.top
