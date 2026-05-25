@@ -1,3 +1,5 @@
+fbi.gov:443#FBI官网
+download.yunzhongzhuan.com:443#中转云
 store.ubi.com:443#Ubi官网
 cf.tencentapp.cn:443#隐藏大佬
 cf.090227.xyz:443#优选IP1
