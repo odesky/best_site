@@ -27,11 +27,8 @@ bestcf.030101.xyz#Mingyu维护
 cdn.2020111.xyz#优先IP
 cdns.doon.eu.org#优先IP
 cf.0sm.com#优先IP
-cf.877771.xyz#优先IP
 cf.877774.xyz#秋名山维护
-cf.900501.xyz#优先IP
 cfip.1323123.xyz#优先IP
-cfip.cfcdn.vip#优先IP
 cfip.xxxxxxxx.tk#OTC维护
 cloudflare.182682.xyz#WeTest.Vip维护
 cloudflare-dl.byoip.top#优先IP
@@ -41,6 +38,4 @@ freeyx.cloudflare88.eu.org#优先IP
 nrt.xxxxxxxx.nyc.mn#优先IP
 nrtcfdns.zone.id#优先IP
 saas.sin.fan#优先IP
-tencentapp.cn#ktff维护
-xn--b6gac.eu.org#优先IP
 777.ai7777777.xyz#优先IP
