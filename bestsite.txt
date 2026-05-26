@@ -1,5 +1,6 @@
 fbi.gov:443#FBI官网
 staticdelivery.nexusmods.com:443#官方NexusMods
+www.nexusmods.com:443#官方Nexusmods网站
 store.ubi.com:443#Ubi官网
 www.udacity.com:443#优选Udacity
 download.yunzhongzhuan.com:443#中转云
