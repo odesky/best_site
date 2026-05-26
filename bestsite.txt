@@ -1,3 +1,4 @@
+staticdelivery.nexusmods.com:443#官方NexusMods
 www.udacity.com:443#优选Udacity
 fbi.gov:443#FBI官网
 download.yunzhongzhuan.com:443#中转云
