@@ -1,3 +1,4 @@
+cdn.netsarang.net:443#官网Xshell
 fbi.gov:443#FBI官网
 staticdelivery.nexusmods.com:443#官方NexusMods
 www.nexusmods.com:443#官方Nexusmods网站
